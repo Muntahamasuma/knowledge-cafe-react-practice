@@ -1,0 +1,58 @@
+[
+    {
+      "Id": 123456,
+      "Cover": "https://picsum.photos/200/300",
+      "Title": "The Secret Garden",
+      "Author": "Emily Green",
+      "AuthorImg": "https://picsum.photos/100/100",
+      "Post": "Just finished reading The Secret Garden, and it's such a delightful escape into nature's magic!",
+      "PostDate": "2024-03-15",
+      "ReadingTimes": 245,
+      "Hashtags": ["#ClassicLiterature", "#Nature", "#Magic"]
+    },
+    {
+      "Id": 987654,
+      "Cover": "https://picsum.photos/250/350",
+      "Title": "Midnight Shadows",
+      "Author": "Jason Blackwood",
+      "AuthorImg": "https://picsum.photos/110/110",
+      "Post": "Midnight Shadows kept me on the edge of my seat till the very last page! Highly recommended for thriller fans!",
+      "PostDate": "2024-03-14",
+      "ReadingTimes": 98,
+      "Hashtags": ["#Thriller", "#Suspense", "#PageTurner"]
+    },
+    {
+      "Id": 246810,
+      "Cover": "https://picsum.photos/300/400",
+      "Title": "Beyond the Stars",
+      "Author": "Sarah Moon",
+      "AuthorImg": "https://picsum.photos/120/120",
+      "Post": "Beyond the Stars is a beautiful journey through space and time. Sarah Moon's writing is simply mesmerizing!",
+      "PostDate": "2024-03-13",
+      "ReadingTimes": 372,
+      "Hashtags": ["#SciFi", "#Adventure", "#Space"]
+    },
+    {
+      "Id": 135790,
+      "Cover": "https://picsum.photos/350/450",
+      "Title": "Enchanted Dreams",
+      "Author": "Michael Waters",
+      "AuthorImg": "https://picsum.photos/130/130",
+      "Post": "Enchanted Dreams whisked me away to a world of fantasy and wonder. Michael Waters' imagination knows no bounds!",
+      "PostDate": "2024-03-12",
+      "ReadingTimes": 512,
+      "Hashtags": ["#Fantasy", "#Magic", "#Adventure"]
+    },
+    {
+      "Id": 369258,
+      "Cover": "https://picsum.photos/400/500",
+      "Title": "The Silent Woods",
+      "Author": "Lily White",
+      "AuthorImg": "https://picsum.photos/140/140",
+      "Post": "The Silent Woods is a hauntingly beautiful tale of love and loss. Lily White's prose is as enchanting as the forest itself.",
+      "PostDate": "2024-03-11",
+      "ReadingTimes": 187,
+      "Hashtags": ["#Drama", "#Romance", "#Mystery"]
+    }
+  ]
+  
